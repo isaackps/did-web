@@ -1,10 +1,10 @@
 {
-  "id": "did:web:isaackps.com",
+  "id": "did:web:didweb.isaackps.com",
   "verificationMethod": [
     {
       "type": "Bls12381G2Key2020",
-      "id": "did:web:isaackps.com#keys-1",
-      "controller": "did:web:isaackps.com",
+      "id": "did:web:didweb.isaackps.com#keys-1",
+      "controller": "did:web:didweb.isaackps.com",
       "publicKeyBase58": "25oHqeq5Btb2BdcVRgyGtiJNfnodu2gT2HU7pVDoCeeWJL38quvHCZRdpVYZxJp5Tcy6nkBosK6Zur49bcpLnpg7ZQB6TW4HpCCwXHu5AYgYD9psPkTwCHujLtom1iCMgjjt"
     }
   ],
@@ -12,8 +12,8 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/bls12381-2020/v1"
   ],
-  "authentication": ["did:web:isaackps.com#keys-1"],
-  "assertionMethod": ["did:web:isaackps.com#keys-1"],
-  "capabilityInvocation": ["did:web:isaackps.com#keys-1"],
-  "capabilityDelegation": ["did:web:isaackps.com#keys-1"]
+  "authentication": ["did:web:didweb.isaackps.com#keys-1"],
+  "assertionMethod": ["did:web:didweb.isaackps.com#keys-1"],
+  "capabilityInvocation": ["did:web:didweb.isaackps.com#keys-1"],
+  "capabilityDelegation": ["did:web:didweb.isaackps.com#keys-1"]
 }
